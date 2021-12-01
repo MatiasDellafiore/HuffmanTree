@@ -84,7 +84,6 @@ void comprimir(string nomArchOri)
 
 void descomprimir(string nomArchCompr)
 {
-
 }
 
 
